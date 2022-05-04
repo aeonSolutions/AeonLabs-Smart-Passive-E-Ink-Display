@@ -44,7 +44,7 @@ ________________________________________________________________________________
 - 2.13" E-Ink Display: https://s.click.aliexpress.com/e/_9gJUhJ
 - FPC 24 pin connector: https://s.click.aliexpress.com/e/_AEUWtr
 - FPC 10 pint connector: https://s.click.aliexpress.com/e/_AEUWtr
-
+- SMD capacitors: https://s.click.aliexpress.com/e/_Asa5qd
 
 ______________________________________________________________________________________________________________________________
 
