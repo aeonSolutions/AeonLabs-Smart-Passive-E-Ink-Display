@@ -1,4 +1,4 @@
-# AeonLabs-Smart-Passive-E-Ink-Display
+# AeonLabs Smart Passive E-Ink Display
  A PCB for a 2.13" E-Ink Display. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Smart_Passive_E_Ink_Display.svg)
@@ -28,8 +28,8 @@ Download the Gerber files in the release section of this repository
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/designs/pcb_back.png)
 
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
