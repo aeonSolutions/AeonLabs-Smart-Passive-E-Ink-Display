@@ -16,9 +16,7 @@
   - PCB for the 2.13" E-Ink Passive Display. No batteries or power required.
 
   
-You have 2 options:
-
-Download this repository for the KiCad Files or, download the Gerber files in the release section of this repository
+PCB fabrication of June 2022 (reviision 2.1) was sponsored by [PCBWay](www.pcbway.com)
 
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
 
