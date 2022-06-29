@@ -18,6 +18,9 @@
   
 PCB fabrication of June 2022 (reviision 2.1) was sponsored by [PCBWay](www.pcbway.com)
 
+[![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/designs/youtube.png)](https://www.youtube.com/watch?v=yhV5l2h_k9U)
+
+
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
@@ -25,8 +28,13 @@ PCB fabrication of June 2022 (reviision 2.1) was sponsored by [PCBWay](www.pcbwa
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final2.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final3.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final4.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final5.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/final6.jpg)
+
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
