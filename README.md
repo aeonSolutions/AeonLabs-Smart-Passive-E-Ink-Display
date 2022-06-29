@@ -18,7 +18,7 @@
   
 PCB fabrication of June 2022 (reviision 2.1) was sponsored by [PCBWay](www.pcbway.com)
 
-[![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/designs/youtube.png)](https://www.youtube.com/watch?v=yhV5l2h_k9U)
+[![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=yhV5l2h_k9U)
 
 
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
