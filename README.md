@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/designs/working_yellow.png)  Waiting to be tested.
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/working_yellow.png)  Waiting to be tested.
 
 If you already tested this PCB send me a message. Thank you
 
