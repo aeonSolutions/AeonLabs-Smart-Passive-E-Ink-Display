@@ -1,4 +1,9 @@
-# AeonLabs-Smart-Passive-2.13-E-Ink-Display
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)  >>  Smart Passive 2.13 E-Ink Display
+
+<br>
+
+
+# Smart Passive 2.13 E-Ink Display
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/total?style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
